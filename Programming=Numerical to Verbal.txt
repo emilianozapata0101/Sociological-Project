@@ -1,0 +1,54 @@
+   Education system have big inequalities in case of graduating a student.Many
+student hated school due to mandatory mathematic lessons.If one student does not
+have talent on numerical sciences, student should not be forced to learn these
+sciences.It is better to teach a talent to a person then leaving it blank on
+board.
+
+   Programming is a talent numerically talented students, computer passionates,
+hackers, engineers gain in time by learning from school or from internet lessons.
+Unfortunately, many students in school do not have talent to numerical sciences,
+that is why they can not learn programming even if they try.It is not a shame
+if someone does not have a talent on something.People are diverse in numbers
+of stars or planets.If only small percentage of persons initiated to learn
+can achieve to be a programmers, it is unfair for majority was not able to
+learn.It is same in education, now it is unfair to majority of graduates if
+education does not have reform with industries.Till information age, only
+numerical people were able to sell their information in a good price due to
+its difficulty of learning.It was a fake fair race to prove if person is works
+hard he can accomplish anything but it was not true.If person has talent, person
+can achieve anything.If there is not talent or effort, achievement was not possible.
+
+   Symbols are not there for just accepting them as they look.Most probably
+non-symbolical world is having even problem symbols and its meaning.S is not
+a snake for latin alphabet users.But it looks like a snake.Eastern philosophies
+assume world is created by symbols and sounds.Programming has variable defined.
+Variable is a data, value assigned.For Example $x = 5.X has 5 as value.$x = "John".
+X has John as value.If every letter has a sound, and every word has a meaning,
+if language is also programmed by previous humans, we live in a world of programming
+already.In social world humans already have something similar to programming and
+they call it logic.If meaning can be converted into programming blocks or functions,
+or functions can be verbalized, maybe programming can be change into something everyone
+can build.
+
+   Verbal programming is supposed to consist from words or symbols.If complexity
+level or difficulty level of programming languages can be lower to normal languages,
+everyone is able to learn programming, thus a website can teach programming to
+everyone.If everyone learn how to program, people will not have economical
+problems and they will start to solve big social problems with big sociology
+companies.
+
+                                                            Emiliano Zapata
+                                                            Computer Sociologist
+
+
+
+Data=
+TypeScript
+C
+C++
+C#
+Python
+PHP
+ASP
+ASP.NET
+HTML
